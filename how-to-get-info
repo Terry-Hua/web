@@ -1,0 +1,13 @@
+##In mainland China,
+>
+You can use Baidu, sogou, 360 and etc, each web explorer can access and search info;
+>  
+If you want to access goolge, you should follow :
+    1. Download Chrome, 
+    2. Visit https://github.com/haotian-wang/google-access-helper，or you can use command:
+       git clone https://github.com/haotian-wang/google-access-helper.git
+       then you can read README.md， follow the steps.  
+    3. If you want to access Facebook, Youtube and etc, you can visit Chrome webstore by google-access-helper,
+       https://chrome.google.com/webstore/
+       and search Ghelper
+    4. Install Ghelper, register and you can try three days.
